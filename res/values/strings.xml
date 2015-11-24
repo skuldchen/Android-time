@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestTimer0001</string>
+    <!--  <string name="hello_world">Hello world!</string> -->
+    <string name="action_settings">Settings</string> 
+    <string name="timerValue">00:00:00</string>
+    <string name="startButton">Start</string>
+    
+    <string name="pauseButton">Pause</string>
+    <string name="timerCurrent">YYYYMMDD_HHmmss</string>
+    <string name="timerCurrent2">YY:MM:DD:HH:mm:ss</string>
+
+</resources>
